@@ -24,6 +24,10 @@
   </div>
   
   <div>
-  <h3> Projeto </h3>
-  <a href ='https://github.com/martinakbeck/ds_em_producao'> Rossman - Previsão de Vendas </a>
+    <h3> Projeto </h3>
+    <a href ='https://github.com/martinakbeck/ds_em_producao'> Rossman - Previsão de Vendas </a>
   </div>
+  
+  <div>
+    <h4>Você pode me encontrar aqui também</h4>
+    <a href="https://www.linkedin.com/in/martinakbeck/">LinkedIn</a>
