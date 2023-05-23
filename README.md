@@ -1,6 +1,4 @@
 <h2> Oie, Eu sou a Martina Keunecke Beck! </h2>
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=martinakbec" alt="martinakbec" /> </p>
-
 
 <div align="center">
   <a href="https://github.com/martinakbeck">
