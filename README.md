@@ -22,3 +22,8 @@
     <img src="https://img.shields.io/badge/NumPy-013243.svg?style=for-the-badge&logo=NumPy&logoColor=white">
     <img src="https://img.shields.io/badge/scikitlearn-F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white">
   </div>
+  
+  <div>
+  <h3> Projeto </h3>
+  <a href ='https://github.com/martinakbeck/ds_em_producao'> Rossman - Previsão de Vendas </a>
+  </div>
