@@ -1,7 +1,6 @@
 <h2>Bem-vindo(a) ao meu perfil!</h2>
 <p>
-  Olá, eu sou a <strong>Martina</strong>! Atualmente, estou cursando Ciência da Computação com previsão de conclusão em <strong>dezembro de 2028</strong>. Trabalho na <a href="https://www.vetsoft.com.br/online/" target="_blank" rel="noopener noreferrer"><strong>VetSoft</strong></a> no suporte ao usuário, ajudando a resolver dúvidas e problemas técnicos. Sou responsável pela implantação do sistema Desktop e pela parte fiscal (NFCe, NFSe, SAT) tanto no sistema desktop quanto na versão web.
-</p>
+  Olá, eu sou a <strong>Martina</strong>! Atualmente, estou cursando Ciência da Computação com previsão de conclusão em <strong>dezembro de 2028</strong>. 
 
 <h3>Tecnologias e Ferramentas</h3>
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
