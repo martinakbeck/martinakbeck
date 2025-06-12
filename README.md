@@ -1,6 +1,6 @@
 <h2>Bem-vindo(a) ao meu perfil!</h2>
 <p>
-  Olá! Eu sou a <strong>Nartina</strong>, QA (Quality Assurance) e estudante de <strong>Ciência da Computação</strong> na FURB, com previsão de conclusão em dezembro de 2028.
+  Olá! Eu sou a <strong>Martina</strong>, QA (Quality Assurance) e estudante de <strong>Ciência da Computação</strong> na FURB, com previsão de conclusão em dezembro de 2028.
 
 Atualmente, atuo com **garantia da qualidade de software**, contribuindo para a entrega de produtos com valor real ao usuário final. Tenho experiência com:</p>
 - ✅ Testes manuais e automatizados  
