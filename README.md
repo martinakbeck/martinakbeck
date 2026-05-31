@@ -1,14 +1,11 @@
 <h2>Bem-vindo(a) ao meu perfil!</h2>
 <p>
-  Olá! Eu sou a <strong>Martina</strong>, QA (Quality Assurance) e estudante de <strong>Ciência da Computação</strong> na FURB, com previsão de conclusão em dezembro de 2028.
-
-Atualmente, atuo com **garantia da qualidade de software**, contribuindo para a entrega de produtos com valor real ao usuário final. Tenho experiência com:</p>
+  Olá! Eu sou a Martina, QA (Quality Assurance) e pós-graduanda em Automação de Testes de Software. Atualmente, atuo com garantia da qualidade de software, contribuindo para a entrega de produtos com valor real ao usuário final.</p>
 - ✅ Testes manuais e automatizados  
 - ✅ Testes de API e mobile  
 - ✅ Testes exploratórios e baseados em requisitos  
 - ✅ Planejamento, execução e documentação de testes funcionais  
 - ✅ Colaboração em times ágeis  
-
 
 <h3>Tecnologias e Ferramentas</h3>
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
