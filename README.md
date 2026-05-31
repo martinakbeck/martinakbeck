@@ -1,6 +1,7 @@
 <h2>Bem-vindo(a) ao meu perfil!</h2>
 <p>
   Olá! Eu sou a Martina, QA (Quality Assurance) e pós-graduanda em Automação de Testes de Software. Atualmente, atuo com garantia da qualidade de software, contribuindo para a entrega de produtos com valor real ao usuário final.</p>
+
 - ✅ Testes manuais e automatizados  
 - ✅ Testes de API e mobile  
 - ✅ Testes exploratórios e baseados em requisitos  
